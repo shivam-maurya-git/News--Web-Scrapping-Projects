@@ -1,1 +1,7 @@
+## file details
 
+
+cnn_news18.py : Python code used for Web Scrapping.
+
+
+highlights-from-cnn-news18.ipynb : Juypter Notebook used to analyze collected data
